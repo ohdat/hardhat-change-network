@@ -1,8 +1,8 @@
 {
-  "name": "hardhat-change-network",
-  "version": "0.1.0",
+  "name": "@ohdat/hardhat-change-network",
+  "version": "0.2.0",
   "description": "Hardhat TypeScript plugin boilerplate",
-  "repository": "github:dmihal/hardhat-change-network",
+  "repository": "github:ohdat/hardhat-change-network",
   "author": "David Mihal",
   "license": "MIT",
   "main": "dist/src/index.js",
